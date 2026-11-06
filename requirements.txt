@@ -4,4 +4,6 @@ pypdf
 numpy
 faster-whisper
 python-dotenv
+ddgs
+trafilatura
 pytest
