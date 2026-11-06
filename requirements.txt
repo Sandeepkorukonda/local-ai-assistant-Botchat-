@@ -1,0 +1,7 @@
+streamlit
+ollama>=0.6.0
+pypdf
+numpy
+faster-whisper
+python-dotenv
+pytest
